@@ -13,7 +13,7 @@ In the context of this project, I utilized the Lightweight (LT) data, a streamli
 
 Please find the relevant data in the :https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorksLT2017.bak
 
-Project Objectives:
+##Project Objectives:
 
 Establish a connection between an on-premise SQL server and Azure cloud.
 Ingest tables into Azure Data Lake for efficient storage and accessibility.
