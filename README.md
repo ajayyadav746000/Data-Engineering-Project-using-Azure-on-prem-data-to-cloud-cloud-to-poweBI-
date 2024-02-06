@@ -1,10 +1,12 @@
 # Data-Engineering-Project-using-Azure-on-prem-data-to-cloud-cloud-to-poweBI-
+
+## Project Overview:
  Data engineering project on Azure that involved moving data from on-premise SQL Server to Azure Data Lake through Data Factory. 
  Using Databricks and Spark, I transformed the data before loading it into Synapse. 
  The final step included setting up PowerBI for reporting, providing stakeholders with valuable insights.
 
 
-
+## Dataset:
  The AdventureWorks database, freely available online and provided by Microsoft, serves as a sample database to illustrate the design of a SQL server database, originally demonstrated with SQL Server 2008. It showcases the structure of a database supporting a fictional manufacturing multinational corporation named Adventure Works Cycles.
 
 This database is specifically designed for Online Transaction Processing (OLTP), a type of data processing involving concurrent transactions. Microsoft ships the AdventureWorks database with their SQL server products.
