@@ -26,5 +26,6 @@ Please find the relevant data in the :https://github.com/Microsoft/sql-server-sa
 
 These goals outline the key steps in setting up a comprehensive data engineering project on the Azure cloud.
 
+##  Project Architecture:
 
 ![Alt Text](https://github.com/ajayyadav746000/Data-Engineering-Project-using-Azure-on-prem-data-to-cloud-cloud-to-poweBI-/blob/main/Screenshot%202023-10-11%20225825.png)
