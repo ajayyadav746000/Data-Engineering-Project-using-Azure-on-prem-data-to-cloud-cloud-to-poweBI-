@@ -53,7 +53,7 @@ Azure Databricks, leveraging PySpark, plays a pivotal role in executing these tr
 
 This staged transformation ensures data quality and structure, setting the stage for meaningful insights and streamlined reporting in downstream processes.
 
-##3: Data Loading
+## 3: Data Loading
 
 The data residing in the "gold" folder undergoes loading into the Business Intelligence reporting application, Power BI, facilitated by Azure Synapse. The loading process unfolds through the following steps:
 
