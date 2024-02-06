@@ -15,9 +15,11 @@ Please find the relevant data in the :https://github.com/Microsoft/sql-server-sa
 
 ## Project Objectives:
 
-Establish a connection between an on-premise SQL server and Azure cloud.
-Ingest tables into Azure Data Lake for efficient storage and accessibility.
-Apply data cleaning and transformation processes using Azure Databricks.
-Utilize Azure Synapse Analytics to load the cleaned data for further analysis.
-Create interactive data visualizations and reports using Microsoft Power BI for effective insights.
-Implement Azure Active Directory (AAD) and Azure Key Vault for robust monitoring and governance of the data pipeline.
+1. Establish a connection between an on-premise SQL server and Azure cloud.
+2. Ingest tables into Azure Data Lake for efficient storage and accessibility.
+3. Apply data cleaning and transformation processes using Azure Databricks.
+4. Utilize Azure Synapse Analytics to load the cleaned data for further analysis.
+5. Create interactive data visualizations and reports using Microsoft Power BI for effective insights.
+6. Implement Azure Active Directory (AAD) and Azure Key Vault for robust monitoring and governance of the data pipeline.
+
+These goals outline the key steps in setting up a comprehensive data engineering project on the Azure cloud.
